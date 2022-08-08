@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "hci.h": "c",
+        "bluetooth.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
