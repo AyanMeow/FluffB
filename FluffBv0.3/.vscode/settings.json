@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "malloc.h": "c",
+        "types.h": "c",
+        "fcntl.h": "c",
+        "bluetooth.h": "c",
+        "hci.h": "c",
+        "rfcomm.h": "c",
+        "stdlib.h": "c",
+        "socket.h": "c",
+        "poll.h": "c",
+        "errno.h": "c",
+        "time.h": "c",
+        "variation.h": "c"
+    }
+}
