@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "sdp.h": "c",
+        "un.h": "c"
+    }
+}
